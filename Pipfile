@@ -10,6 +10,7 @@ django-cors-headers = "~=3.10.0"
 dj-rest-auth = "==2.1.11"
 django-allauth = "~=0.48.0"
 drf-spectacular = "~=0.21.0"
+environs = {version = "==9.5.0", extras = ["django"]}
 
 [dev-packages]
 
